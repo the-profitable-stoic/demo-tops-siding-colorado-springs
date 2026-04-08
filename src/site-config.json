@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tops Siding Colorado Springs",
+    "phone": "+17192494874",
+    "category": "siding contractor",
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Colorado Springs Siding Experts",
+      "heroSubline": "Protect your home from hail and harsh weather. Expert siding installation and repair for lasting beauty and value.",
+      "aboutTitle": "Built on Experience, Focused on Quality",
+      "aboutText": [
+        "Tops Siding Colorado Springs started with a simple goal: to provide homeowners with durable, beautiful siding solutions that stand up to our challenging climate. We're a local team, born and raised right here in the shadow of Pikes Peak, and we understand the unique demands our weather places on your home's exterior.",
+        "We believe in doing things right the first time. That means using only the highest quality materials, employing skilled craftsmen, and paying meticulous attention to every detail. We're not just installing siding; we're safeguarding your investment and enhancing your home's curb appeal.",
+        "Colorado Springs is our home, and we're committed to giving back to the community that supports us. We actively support local charities and organizations, and we always strive to provide fair, honest service to our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Hail-Resistant Siding",
+          "description": "Protect your home from Colorado's notorious hailstorms with our impact-resistant siding options."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for maximum performance and longevity."
+        },
+        {
+          "title": "Free Consultations & Quotes",
+          "description": "Get a clear, honest assessment of your siding needs with no obligation."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Colorado Springs architecture and climate challenges better than anyone."
+        }
+      ],
+      "ctaHeadline": "Get a Free Siding Quote Today!",
+      "ctaSubline": "Protect your home and enhance its beauty. Contact us now for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Professional siding installation for lasting protection and curb appeal.",
+        "description": "New siding installation is a significant investment, and we treat it as such. We start with a thorough assessment of your home's needs, considering factors like architectural style, exposure to the elements, and your personal preferences. We offer a wide range of siding materials, including vinyl, fiber cement, wood, and metal, each with its own unique advantages. \n\nOur skilled installation team ensures precise measurements, proper flashing, and secure fastening, all crucial for long-term performance. We pay close attention to detail, ensuring a seamless, weather-tight finish that enhances your home's value and protects it from the elements. Living in Colorado Springs, we know that UV damage is a real problem, which is why we use only the most durable and UV-resistant siding products that are available on the market. We also take into account the risk of hail and extreme weather. \n\nFrom initial consultation to final inspection, we're committed to providing a smooth, stress-free experience. We keep you informed every step of the way and address any concerns promptly and professionally.",
+        "process": [
+          "Step 1: Initial Consultation and Home Assessment",
+          "Step 2: Material Selection and Quote Presentation",
+          "Step 3: Precise Measurement and Preparation",
+          "Step 4: Professional Siding Installation and Inspection"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Protection from the Elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a siding installation project typically take?",
+            "answer": "Most siding installation projects take between 1-2 weeks, depending on the size and complexity of the home and the type of siding being installed. We always provide a detailed timeline upfront."
+          },
+          {
+            "question": "What type of siding is best for Colorado Springs weather?",
+            "answer": "Fiber cement and vinyl siding are both excellent choices for Colorado Springs. They are durable, weather-resistant, and can withstand the harsh sun and occasional hail."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make your siding project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Expert siding repair to restore your home's protection and beauty.",
+        "description": "Damaged siding compromises your home's protection and aesthetic appeal. Whether it's from hail damage, wind, age, or impact, we offer comprehensive siding repair services to restore your home to its original condition. We handle all types of siding repairs, from replacing individual panels to addressing larger areas of damage. \n\nOur experienced technicians are skilled at identifying the root cause of the problem and implementing effective, long-lasting solutions. We carefully match the existing siding to ensure a seamless repair that blends in perfectly. We understand that even small cracks or holes in the siding can lead to bigger problems down the road, such as water damage and mold growth. \n\nWe prioritize prompt, reliable service to minimize further damage and protect your investment. We'll assess the damage, provide a clear explanation of the repair options, and offer a fair, competitive quote. In areas like Briargate that have newer homes, matching the existing siding is important to maintain the neighborhood aesthetic.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Material Matching and Repair Plan",
+          "Step 3: Expert Siding Repair and Replacement",
+          "Step 4: Final Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Restored Protection from the Elements",
+          "Enhanced Curb Appeal",
+          "Prevention of Further Damage",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Common signs of siding damage include cracks, holes, loose panels, discoloration, and water stains. If you notice any of these issues, it's important to have your siding inspected promptly."
+          },
+          {
+            "question": "Can you match the existing siding on my house?",
+            "answer": "Yes, we have extensive experience matching existing siding materials and colors. We'll work diligently to ensure a seamless repair that blends in perfectly."
+          },
+          {
+            "question": "What is the cost of siding repair?",
+            "answer": "The cost of siding repair varies depending on the extent of the damage and the type of siding. We offer free estimates to provide you with a clear understanding of the repair costs."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Complete siding replacement for a fresh look and enhanced protection.",
+        "description": "When siding is severely damaged or outdated, complete replacement is often the best option. We offer comprehensive siding replacement services to transform your home and provide lasting protection. We'll remove your old siding, address any underlying issues, and install new siding that meets your specific needs and preferences. \n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, wood, and metal, each with its own unique benefits and aesthetic appeal. Our experienced team will guide you through the selection process, helping you choose the perfect siding to complement your home's style and architecture. For example, in Old Colorado City, homeowners often choose siding that matches the historic character of the neighborhood.\n\nWe prioritize quality craftsmanship and attention to detail, ensuring a seamless, weather-tight installation that enhances your home's value and protects it from the elements. We understand that siding replacement is a significant investment, and we're committed to providing a transparent, stress-free experience.",
+        "process": [
+          "Step 1: Comprehensive Inspection and Consultation",
+          "Step 2: Material Selection and Design",
+          "Step 3: Professional Siding Removal and Preparation",
+          "Step 4: Expert Siding Installation and Quality Assurance"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Curb Appeal",
+          "Improved Energy Efficiency",
+          "Long-Lasting Protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of a siding replacement project depends on the size and complexity of the home, but typically takes between 1-3 weeks."
+          },
+          {
+            "question": "What are the benefits of new siding?",
+            "answer": "New siding can increase your home's value, improve its energy efficiency, enhance its curb appeal, and protect it from the elements."
+          },
+          {
+            "question": "Do you offer warranties on your siding replacement services?",
+            "answer": "Yes, we offer comprehensive warranties on both materials and workmanship, providing you with peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-siding",
+        "name": "Vinyl Siding",
+        "shortDescription": "Durable and affordable vinyl siding options for Colorado Springs homes.",
+        "description": "Vinyl siding is a popular choice for Colorado Springs homeowners seeking a cost-effective and low-maintenance siding solution. It's durable, weather-resistant, and available in a wide variety of colors and styles. We offer a wide selection of vinyl siding options to suit any home and budget. \n\nOur experienced team ensures professional installation for maximum performance and longevity. We use only high-quality vinyl siding products that are designed to withstand Colorado's harsh climate, including extreme temperatures, hail, and UV exposure. Vinyl siding is also easy to clean and maintain, making it a great choice for busy homeowners. In areas like Northgate, where homes are newer, vinyl siding offers a modern aesthetic.\n\nWe're committed to providing our customers with the best possible vinyl siding experience, from initial consultation to final inspection. We'll help you choose the perfect vinyl siding to complement your home's style and protect it for years to come.",
+        "process": [
+          "Step 1: Consultation and Vinyl Siding Selection",
+          "Step 2: Precise Measurement and Preparation",
+          "Step 3: Professional Vinyl Siding Installation",
+          "Step 4: Final Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Affordable and Cost-Effective",
+          "Low Maintenance",
+          "Durable and Weather-Resistant",
+          "Wide Variety of Colors and Styles"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 30-40 years."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation."
+          },
+          {
+            "question": "How do I clean vinyl siding?",
+            "answer": "Vinyl siding can be easily cleaned with soap and water. For tougher stains, you can use a mild household cleaner."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding",
+        "name": "Fiber Cement Siding",
+        "shortDescription": "Durable and fire-resistant fiber cement siding for lasting protection.",
+        "description": "Fiber cement siding is a premium siding option known for its exceptional durability, fire resistance, and aesthetic appeal. It's made from a composite material of cement, sand, and cellulose fibers, making it incredibly strong and resistant to damage from hail, wind, and insects. We offer a wide selection of fiber cement siding options, including various textures and colors to complement any home. \n\nOur experienced team ensures professional installation for maximum performance and longevity. We use only high-quality fiber cement siding products that are designed to withstand Colorado's harsh climate. Fiber cement siding is also fire-resistant, providing an extra layer of protection for your home. Given the dry climate in Colorado Springs, this is a desirable feature for many residents.\n\nWe're committed to providing our customers with the best possible fiber cement siding experience, from initial consultation to final inspection. We'll help you choose the perfect fiber cement siding to enhance your home's beauty and protect it for years to come.",
+        "process": [
+          "Step 1: Consultation and Fiber Cement Siding Selection",
+          "Step 2: Precise Measurement and Preparation",
+          "Step 3: Professional Fiber Cement Siding Installation",
+          "Step 4: Final Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Fire Resistance",
+          "Aesthetic Appeal",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50+ years."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is typically more expensive than vinyl siding, but it offers superior durability and longevity."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-painted, but it can be repainted to change the color or refresh the look."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspection",
+        "name": "Siding Inspection",
+        "shortDescription": "Comprehensive siding inspections to identify and address potential issues.",
+        "description": "Regular siding inspections are crucial for maintaining the integrity of your home's exterior. Our comprehensive siding inspection services help identify potential issues early on, preventing costly repairs down the road. Our experienced inspectors will thoroughly examine your siding for signs of damage, including cracks, holes, loose panels, water stains, and insect infestation. \n\nWe'll provide you with a detailed report outlining our findings and recommendations for repair or replacement. We use advanced tools and techniques to ensure a thorough and accurate assessment of your siding's condition. We understand the unique challenges that Colorado Springs weather poses to siding, and we're equipped to identify and address those issues effectively. \n\nWhether you're buying, selling, or simply maintaining your home, a professional siding inspection can provide valuable peace of mind.",
+        "process": [
+          "Step 1: Schedule a Siding Inspection",
+          "Step 2: Thorough On-Site Inspection",
+          "Step 3: Detailed Inspection Report",
+          "Step 4: Recommendations for Repair or Replacement"
+        ],
+        "benefits": [
+          "Early Detection of Potential Issues",
+          "Prevention of Costly Repairs",
+          "Peace of Mind",
+          "Maintenance of Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What is included in a siding inspection?",
+            "answer": "A siding inspection includes a thorough examination of your siding for signs of damage, including cracks, holes, loose panels, water stains, and insect infestation."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "The cost of a siding inspection varies depending on the size and complexity of the home. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Colorado Springs",
+        "slug": "colorado-springs-co",
+        "state": "CO",
+        "content": "Tops Siding Colorado Springs is proud to offer expert siding installation and repair services to homeowners throughout Colorado Springs. We understand the unique challenges that Colorado's weather presents, and we're committed to providing durable, beautiful siding solutions that protect your home for years to come. Whether you're looking to upgrade your home's curb appeal or need to repair storm damage, our experienced team is here to help.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, and wood, so you can find the perfect option to match your style and budget. Our skilled installers ensure a precise and professional installation, guaranteeing long-lasting performance and beauty. Contact us today for a free consultation and let us help you enhance your home's value and protection.",
+        "localContext": "Colorado Springs, nestled at the base of Pikes Peak, experiences a wide range of weather conditions, from intense sunshine to heavy snow. This makes durable and weather-resistant siding crucial for protecting homes.",
+        "nearbyAreas": [
+          "Manitou Springs",
+          "Fountain",
+          "Monument"
+        ]
+      },
+      {
+        "city": "Manitou Springs",
+        "slug": "manitou-springs-co",
+        "state": "CO",
+        "content": "Tops Siding Colorado Springs extends its services to the charming town of Manitou Springs, providing residents with top-quality siding solutions. We appreciate the unique character of Manitou Springs and strive to offer siding options that complement its historic architecture. From Victorian homes to modern residences, we have the expertise to enhance any property.\n\nOur team is dedicated to providing exceptional customer service and ensuring that every siding project is completed to the highest standards. We understand the importance of protecting your home from the elements, and we offer a variety of durable and attractive siding materials to suit your needs. Let us help you preserve the beauty and integrity of your Manitou Springs home.",
+        "localContext": "Manitou Springs, known for its natural mineral springs and historic charm, requires siding that can withstand the elements while maintaining its aesthetic appeal.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Cascade",
+          "Green Mountain Falls"
+        ]
+      },
+      {
+        "city": "Fountain",
+        "slug": "fountain-co",
+        "state": "CO",
+        "content": "Homeowners in Fountain, CO, can rely on Tops Siding Colorado Springs for all their siding needs. We offer a comprehensive range of siding services, from installation and repair to replacement and maintenance. Our experienced team is committed to delivering exceptional results and ensuring customer satisfaction.\n\nWe understand that choosing the right siding can be a daunting task, which is why we offer free consultations to help you explore your options and make informed decisions. Whether you're looking for a cost-effective solution or a premium siding product, we have the expertise to guide you through the process. Trust us to protect and beautify your Fountain home.",
+        "localContext": "Fountain, a growing community south of Colorado Springs, experiences a mix of suburban and rural influences, requiring siding solutions that are both durable and aesthetically pleasing.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Security-Widefield",
+          "Peyton"
+        ]
+      },
+      {
+        "city": "Monument",
+        "slug": "monument-co",
+        "state": "CO",
+        "content": "Tops Siding Colorado Springs is pleased to serve the residents of Monument, CO, with our expert siding services. We understand the importance of protecting your home from the elements, especially in a climate like Colorado's. That's why we offer a variety of durable and energy-efficient siding options to suit your needs.\n\nOur skilled installers are committed to providing precise and professional workmanship, ensuring that your siding is installed correctly and will last for years to come. We also offer repair services to address any damage or wear and tear your siding may experience. Contact us today for a free estimate and let us help you enhance the beauty and value of your Monument home.",
+        "localContext": "Monument, located north of Colorado Springs, offers a blend of small-town charm and natural beauty, making it essential to choose siding that complements the area's aesthetic.",
+        "nearbyAreas": [
+          "Palmer Lake",
+          "Colorado Springs",
+          "Woodmoor"
+        ]
+      },
+      {
+        "city": "Security-Widefield",
+        "slug": "security-widefield-co",
+        "state": "CO",
+        "content": "Residents of Security-Widefield can rely on Tops Siding Colorado Springs for top-notch siding installation and repair services. We're committed to providing affordable and reliable siding solutions to homeowners in this vibrant community. Whether you're looking to upgrade your home's appearance or protect it from the elements, we have the expertise to meet your needs.\n\nOur team is dedicated to providing exceptional customer service and ensuring that every siding project is completed to the highest standards. We offer a wide range of siding materials to choose from, so you can find the perfect option to match your style and budget. Let us help you enhance the value and curb appeal of your Security-Widefield home.",
+        "localContext": "Security-Widefield, a large unincorporated community near Colorado Springs, benefits from siding solutions that are both budget-friendly and durable, catering to a diverse range of homes.",
+        "nearbyAreas": [
+          "Fountain",
+          "Colorado Springs",
+          "Stratmoor"
+        ]
+      },
+      {
+        "city": "Woodland Park",
+        "slug": "woodland-park-co",
+        "state": "CO",
+        "content": "Tops Siding Colorado Springs proudly serves Woodland Park, providing expert siding solutions to protect homes in this beautiful mountain community. We understand the unique challenges posed by Woodland Park's high altitude and harsh weather conditions. Our siding options are designed to withstand the elements and provide long-lasting protection for your home.\n\nWe offer a wide selection of siding materials, including fiber cement and LP SmartSide, known for their durability and resistance to moisture, pests, and fire. Our skilled installers ensure a precise and professional installation, guaranteeing long-lasting performance and beauty. Contact us today for a free consultation and let us help you enhance your home's value and protection in Woodland Park.",
+        "localContext": "Woodland Park, nestled in the mountains west of Colorado Springs, experiences significant snowfall and extreme temperatures, making durable and weather-resistant siding critical.",
+        "nearbyAreas": [
+          "Divide",
+          "Green Mountain Falls",
+          "Cascade"
+        ]
+      },
+      {
+        "city": "Palmer Lake",
+        "slug": "palmer-lake-co",
+        "state": "CO",
+        "content": "Tops Siding Colorado Springs extends its expert services to the picturesque town of Palmer Lake. We understand Palmer Lake's unique blend of rustic charm and modern living. We offer siding solutions that complement the town's aesthetic while providing essential protection against the elements.\n\nFrom traditional wood siding to durable fiber cement options, we provide a wide range of choices to enhance any property. Our team is committed to exceptional customer service, ensuring every project meets the highest standards. Let us help you maintain the beauty and integrity of your Palmer Lake home with our top-quality siding services.",
+        "localContext": "Palmer Lake, known for its serene lake and mountain views, requires siding that is both aesthetically pleasing and able to withstand harsh weather conditions.",
+        "nearbyAreas": [
+          "Monument",
+          "Woodmoor",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Stratmoor",
+        "slug": "stratmoor-co",
+        "state": "CO",
+        "content": "Homeowners in Stratmoor can rely on Tops Siding Colorado Springs for all their siding installation and repair needs. We are committed to providing affordable and reliable siding solutions that enhance and protect your home. Our experienced team delivers exceptional results, ensuring complete customer satisfaction.\n\nWe offer a variety of siding materials, including vinyl, fiber cement, and wood, all with professional installation. Whether you're looking to upgrade your home's appearance or protect it from the harsh Colorado weather, we have the expertise to meet your needs. Contact us today for a free consultation and let us help you enhance the curb appeal of your Stratmoor home.",
+        "localContext": "Stratmoor, a residential area near Colorado Springs, requires siding that is both affordable and durable, catering to a variety of housing styles.",
+        "nearbyAreas": [
+          "Security-Widefield",
+          "Colorado Springs",
+          "Fountain"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Tops Siding did an amazing job installing new fiber cement siding on our home in Broadmoor. The crew was professional, efficient, and paid attention to every detail. Our house looks fantastic, and we feel much more protected from the elements. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some hail damage on our vinyl siding, and Tops Siding came out quickly to assess the damage and provide a repair estimate. They matched the existing siding perfectly, and the repair is seamless. Great service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "After years of dealing with old, outdated siding, we decided to replace it with new vinyl siding from Tops Siding. The entire process was smooth and stress-free. The team was knowledgeable and helped us choose the perfect siding for our home. Very happy with the results!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Siding Inspection",
+        "text": "As a first-time homebuyer, I wanted to make sure the siding was in good condition. Tops Siding provided a thorough inspection and gave me peace of mind. Their detailed report helped me understand the condition of the siding and plan for future maintenance.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Vinyl Siding",
+        "text": "We chose Tops Siding for our new vinyl siding installation, and we're very pleased with the results. The crew was professional, the price was competitive, and the siding looks great. A solid local company.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Fiber Cement Siding",
+        "text": "Tops Siding did an excellent job installing fiber cement siding on our house. The crew was meticulous and professional, and the finished product is beautiful. We're confident that our new siding will protect our home for years to come.",
+        "date": "2024-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tops Siding Colorado Springs",
+        "description": "Colorado Springs siding experts. Installation, repair, and replacement. Protect your home from hail and sun with durable siding."
+      },
+      "about": {
+        "title": "About Tops Siding Colorado Springs",
+        "description": "Learn about Tops Siding: your local Colorado Springs siding contractor. Quality siding services and exceptional customer care."
+      },
+      "services": {
+        "title": "Siding Services Colorado Springs",
+        "description": "Siding installation, repair, and replacement in Colorado Springs. Vinyl, fiber cement, and more. Free quotes available."
+      },
+      "contact": {
+        "title": "Contact Tops Siding Colorado Springs",
+        "description": "Contact Tops Siding for siding quotes and information in Colorado Springs. Call +17192494874 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Tops Siding Customer Reviews",
+        "description": "Read reviews for Tops Siding Colorado Springs. See what our satisfied customers say about our siding services."
+      },
+      "service-areas": {
+        "title": "Tops Siding Service Areas",
+        "description": "Tops Siding provides siding services throughout Colorado Springs and surrounding areas. Find your city here."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "siding-installation": "/images/service-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "vinyl-siding": "/images/service-vinyl-siding.webp",
+      "fiber-cement-siding": "/images/service-fiber-cement-siding.webp",
+      "siding-inspection": "/images/service-siding-inspection.webp"
+    },
+    "servicesResponsive": {
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-siding": {
+        "src": "/images/service-vinyl-siding.webp",
+        "srcset": "/images/service-vinyl-siding-400w.webp 400w, /images/service-vinyl-siding-800w.webp 800w, /images/service-vinyl-siding-1200w.webp 1200w, /images/service-vinyl-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding": {
+        "src": "/images/service-fiber-cement-siding.webp",
+        "srcset": "/images/service-fiber-cement-siding-400w.webp 400w, /images/service-fiber-cement-siding-800w.webp 800w, /images/service-fiber-cement-siding-1200w.webp 1200w, /images/service-fiber-cement-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspection": {
+        "src": "/images/service-siding-inspection.webp",
+        "srcset": "/images/service-siding-inspection-400w.webp 400w, /images/service-siding-inspection-800w.webp 800w, /images/service-siding-inspection-1200w.webp 1200w, /images/service-siding-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
